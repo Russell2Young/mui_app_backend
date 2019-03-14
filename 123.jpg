@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="zh-cn"><head><meta charset="UTF-8"><title>二维码</title><link type="text/css" href="//static.clewm.net/cli/flatkit/assets/material-design-icons/material-design-icons.css" rel="stylesheet" media="all" /><link type="text/css" href="//static.clewm.net/cli/flatkit/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" media="all" /><link type="text/css" href="//static.clewm.net/cli/css/qrcode_plugins.css?v=20180816" rel="stylesheet" media="all" /><link rel="stylesheet" href="//static.clewm.net/cli/css/user_nav_plugins_v2.css?v=20180605"><link rel="stylesheet" href="//static.clewm.net/cli/flatkit/assets/styles/app.min.css?v=20181102"><script src="//static.clewm.net/cli/js/lib/jquery191.js"></script><script src="//static.clewm.net/static/js/lib/sea_3c3cab9.js"></script><script src="//static.clewm.net/static/js/common_d5afedb.js"></script><script src="//static.clewm.net/cli/js/lib/plug/slides.min.jquery.js"></script><script src="//static.clewm.net/static/js/qrcodeapi_598f39f.js"></script><script>
+var qrurl="你好";
+var qrcode_plugins_img ="//qr.api.cli.im/qr?data=%E4%BD%A0%E5%A5%BD&kid=cliim&key=55ee84e5e075ce91a363b7c79027bca4";
+</script></head><style>
+.slides_container{
+padding-left:0px;
+}
+.qrcode_plugin_pagination{
+padding-left: 0px;
+bottom:-9px;
+}
+.qrcode_plugins_slides{
+padding:0px;
+}
+.api_downother,.api_mahua{
+width: 50% !important;
+}
+.qrcode_plugins_box .qrcode_plugins_box_body .qrcode_plugins_download:hover{
+color: #fff;
+}
+</style><body><div class="qrcode_plugins_bg" id="qrcode_plugins"></div><div class="qrcode_plugins_box" style="top: 81.5px;"><div class="qrcode_plugins_box_body"><img src="//qr.api.cli.im/qr?data=%E4%BD%A0%E5%A5%BD&kid=cliim&key=55ee84e5e075ce91a363b7c79027bca4" id="qrcode_plugins_img" class="qrcode_plugins_img" style="background: rgb(255, 255, 255);width: 200px;"><span class="qrcode_plugins_change_btn" id="qrcode_plugins_change_btn">换一个美化模版</span><div class="qrcode_plugins_slides" id="slides"><ul class="slides_container"></ul><a href="javascript:;" class="prev"><i class="fa fa-chevron-left"></i></a><a href="javascript:;" class="next"><i class="fa fa-chevron-right"></i></a></div><a href="javascript:;" class="qrcode_plugins_download green btn">下载<span>500*500像素</span></a><div><a href="javascript:;" class="qrcode_plugins_downother api_downother">下载其他格式</a><a href="javascript:;" class="qrcode_plugins_mahua api_mahua">快速美化</a></div></div></div></body></html><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?cb508e5fef81367bfa47f4ec313bf68c";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script src="//static.clewm.net/public/cli_analytics.js"></script>
