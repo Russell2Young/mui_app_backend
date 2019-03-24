@@ -16,7 +16,7 @@ def createQR(num):
 
         time.sleep(0.1)
 
-        MONGO_DB.devices.insert_one({"device_key":qr_info})
+        MONGO_DB.devices.insert_one({"device_key": qr_info})
 
 
 createQR(5)
