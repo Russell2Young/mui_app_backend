@@ -3,3 +3,5 @@
 */.DS_Store
 Music/*
 Cover/*
+__pycache__
+
